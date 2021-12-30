@@ -1,0 +1,50 @@
+.FooterBack{
+background-color: #2a2f33;
+}
+.FooterBack .dataFlexbetween{
+    display: flex;
+    justify-content: space-between;
+    padding: 22px 30px 22px 30px;
+}
+.FooterBack .dataFlexbetween .logoData .footerLogo{
+    padding-top: 20px;
+}
+.FooterBack .dataFlexbetween .logoData .footerLogo img{
+    width: 166px;
+}
+.FooterBack .dataFlexbetween .logoData .logopara p{
+    color: #4a4b47;
+    font-size: .75rem;
+    margin: 0px;
+    padding-left: 7px;
+}
+.FooterBack .dataFlexbetween .footerLIS1 ul{
+list-style: none;
+color: #a6a697;;
+}
+.FooterBack .dataFlexbetween .LisFlex .footerLIS1 ul li{
+    font-size: .875rem;
+}
+.FooterBack .dataFlexbetween .LisFlex .footerLIS1 ul li a{
+    text-decoration: none;
+    color: #a6a697;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.FooterBack .dataFlexbetween .LisFlex .footerLIS2 ul{
+    list-style: none;
+    color: #a6a697;
+    margin-left: -16px;
+    }
+    .FooterBack .dataFlexbetween .LisFlex .footerLIS2 ul li{
+        font-size: .875rem;
+    }
+    .FooterBack .dataFlexbetween .LisFlex .footerLIS2 ul li a{
+        text-decoration: none;
+        color: #a6a697;
+        font-size: 1.5rem;
+        font-weight: 400;
+    }
+    .FooterBack .dataFlexbetween .LisFlex{
+        display: flex;
+    }

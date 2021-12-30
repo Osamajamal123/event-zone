@@ -1,0 +1,69 @@
+.flexbetweenDiv {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 45px 10px 39px;
+}
+.flexbetweenDiv .greenButton {
+  background-color: #45b168;
+  padding: 4px;
+  border-radius: 15px;
+  padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 6px;
+}
+.flexbetweenDiv .greenButton p {
+  color: white;
+  margin: 0px;
+  font-size: 12px;
+}
+.flexbetweenDiv .twoButtonsFlex{
+display: flex;
+}
+.flexbetweenDiv .twoButtonsFlex .buttonOne{
+    display: flex;
+    border: 1px solid #cacaca;
+    background: #f9f9f9;
+    padding: 9px 11px 9px 11px;
+    margin-right: 16px;
+}
+.flexbetweenDiv .twoButtonsFlex .buttonOne .sharelogo{
+display: flex;
+align-items: center;
+}
+.flexbetweenDiv .twoButtonsFlex .buttonOne .sharelogo img{
+    width: 13px;
+    padding-right: 7px;
+}
+.flexbetweenDiv .twoButtonsFlex .buttonOne .buttonPara{
+display: flex;
+align-items: center;
+}
+.flexbetweenDiv .twoButtonsFlex .buttonOne .buttonPara p{
+    font-size: 12px;
+    margin: 0px;
+}
+
+.flexbetweenDiv .twoButtonsFlex .buttontwo{
+    display: flex;
+    border: 1px solid #cacaca;
+    background: #f9f9f9;
+    padding: 9px 11px 9px 11px;
+    }
+    .flexbetweenDiv .twoButtonsFlex .buttontwo .sharelogo2{
+    display: flex;
+    align-items: center;
+    }
+    .flexbetweenDiv .twoButtonsFlex .buttontwo .sharelogo2 img{
+        width: 9px;
+        padding-left: 5px;
+    }
+    .flexbetweenDiv .twoButtonsFlex .buttontwo .buttonPara2{
+    display: flex;
+    align-items: center;
+    }
+    .flexbetweenDiv .twoButtonsFlex .buttontwo .buttonPara2 p{
+        font-size: 12px;
+        margin: 0px;
+    }
+
+

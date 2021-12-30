@@ -1,0 +1,70 @@
+ /* .backgroundImage{
+    background-image: url(../../assets/images/ground.png);
+    height: 700px;
+    background-repeat: no-repeat;
+ } */
+ 
+ .backgroundImage .backgroundColor{
+    background-color: white;
+    width: 495px;
+    height: 507px;
+}
+.backgroundImage .backgroundColor .dataHead {
+    padding: 11px 0px 11px 18px;
+}
+.backgroundImage .backgroundColor .dataHead h5{
+    font-size: 1.5rem;
+    margin: 0px;
+    font-weight: 400;
+    color: #666;
+}
+.backgroundImage .backgroundColor .dataHead p{
+    color: #666;
+    margin: 0px;
+    font-size: .75rem;
+}
+.backgroundImage .backgroundColor .backColor{
+    background-color: #efefef;
+    width: 495px;
+    height: 503px;
+}
+.backgroundImage .backgroundColor .backColor .inputDiv{
+display: flex;
+flex-direction: column;
+padding: 17px 12px 17px 12px;
+}
+.backgroundImage .backgroundColor .backColor .inputDiv input{
+    box-shadow: 0 1px 0 0 #fff;
+    font-size: 100%;
+    border: 1px solid #ccc;
+    padding: 18px 0px 18px 15px;
+    margin: -2px 0px 35px 0px;
+}
+.backgroundImage .backgroundColor .backColor .inputDiv textarea{
+    padding: 9px 0px 60px 18px;
+    font-size: 17px;
+    resize: none;
+}
+.backgroundImage .backgroundColor .backColor .buttonDataDiv{
+display: flex;
+}
+.backgroundImage .backgroundColor .backColor .buttonDataDiv .buttonBlue{
+    background-color: #4299e1;
+    border-radius: .25rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-left: 14px;
+}
+.backgroundImage .backgroundColor .backColor .buttonDataDiv .buttonBlue p{
+color: white;
+font-weight: 700;
+margin: 0px;
+font-size: 16px;
+}
+.backgroundImage .backgroundColor .backColor .buttonDataDiv .privacyDiv p{
+    color: #4299e1;
+    margin: 0px;
+    padding-left: 15px;
+}

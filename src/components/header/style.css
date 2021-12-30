@@ -1,0 +1,42 @@
+.HeaderDiv{
+   
+    display: flex;
+}
+.HeaderDiv .logoDiv{
+    width: 50%;
+    padding: 17px 30px 17px 30px;
+}
+.HeaderDiv .logoDiv img{
+    width: 136px;
+}
+.HeaderDiv .achorDiv{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 27px;
+    padding-top: 5px;
+}
+.HeaderDiv .achorDiv ul{
+    display: flex;
+    width: 28%;
+    justify-content: space-around;
+}
+.HeaderDiv .achorDiv ul li{
+    list-style: none;
+}
+.HeaderDiv .achorDiv ul li a{
+    text-decoration: none;
+    color: #9b9b9b;
+  
+}
+.active {
+    border-bottom: 3px solid blue;
+}
+/* .achorDiv ul li:hover{
+    border-bottom: 3px solid blue;
+    color: #000;
+} */
+.achorDiv ul li a:hover{
+    border-bottom: 3px solid blue;
+    color: #000;
+}

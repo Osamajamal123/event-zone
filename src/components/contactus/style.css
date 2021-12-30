@@ -1,0 +1,14 @@
+.groundImage{
+    background-image: url(../../assets/images/ground.png);
+    height: 766px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+.groundImage .formDiv{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 766px;
+}

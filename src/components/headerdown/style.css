@@ -1,0 +1,37 @@
+.HeaderDownwidth{
+    display: flex;
+}
+.HeaderDownwidth .leftFlex{
+    display: flex;
+}
+.HeaderDownwidth .leftFlex .leftcolor{
+    background-color: #181d53;
+    display: flex;
+    padding: 6px 63px 6px 49px;
+}
+.HeaderDownwidth .leftFlex .leftcolor .leftLogo img{
+    width: 159px;
+}
+.HeaderDownwidth .leftFlex .leftcolor .arrowImage{
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+.HeaderDownwidth .leftFlex .leftcolor .arrowImage img{
+    width: 21px;
+}
+.HeaderDownwidth .rightColor{
+    background: #1b2161;
+    display: flex;
+    align-items: center;
+    padding-left: 22px;
+    width: 100%
+}
+.HeaderDownwidth .rightColor h5{
+    color: white;
+    font-size: 1.25rem;
+    font-weight: inherit;
+    margin: 0px;
+}
+
+

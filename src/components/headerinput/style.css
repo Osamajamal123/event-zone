@@ -1,0 +1,32 @@
+.dataFlexBetween{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 59px 10px 37px;
+   
+}
+.dataFlexBetween .logodataDiv{
+    display: flex;
+}
+.dataFlexBetween .logodataDiv .logoFlagdiv img{
+    width: 51px;
+}
+.dataFlexBetween .logodataDiv .flagData p{
+    font-weight: 700;
+    padding-left: 8px;
+}
+.dataFlexBetween .buttonDivColor{
+    background-color: #4cafe6;
+    display: flex;
+    padding: 7px 30px;
+    border-radius: 50px;
+    margin-top: 7px;
+}
+.dataFlexBetween .buttonDivColor img{
+    padding-right: 15px;
+}
+.dataFlexBetween .buttonDivColor p{
+    color: white;
+    margin: 0px;
+    font-size: 12px;
+    font-weight: 400;
+}
